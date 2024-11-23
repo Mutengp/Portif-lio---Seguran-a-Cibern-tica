@@ -16,10 +16,10 @@ Olá! Eu sou Leandro, um entusiasta de segurança cibernética com paixão por p
 - 
 
 ## Projetos
-### [SQL Busca](link_para_pasta_do_projeto_backup)
-- **Descrição:** .
+### [SQL Busca]([link_para_pasta_do_projeto_backup](https://github.com/Mutengp/Portifolio-Seguranca-Cibernetica/blob/main/Portifolio%20-%20SQL%20query%20GoogleCyber.pdf))
+- **Descrição:** Feito busca e filtros no SQL para encontrar usuarios fora do horario de expediente.
 - **Tecnologias:** SQL.
 
----
+---------------------------------------------
 
 Obrigado por visitar meu portfólio! Estou sempre aberto a novas oportunidades e colaborações. Se você tiver qualquer pergunta ou proposta, sinta-se à vontade para entrar em contato.
